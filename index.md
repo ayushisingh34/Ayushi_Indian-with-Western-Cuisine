@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -213,7 +213,7 @@ h3 {
 
     
     
-    <h3><a href="all_food_recipes.html"><button type="button">Check Out  !</a></h3>
+    <h3><a>href="all_food_recipes.html"><button type="button">Check Out  !</a></h3>
 
   </body>
 </html>
