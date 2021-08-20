@@ -213,7 +213,9 @@ h3 {
 
     
     
-    <h3><a>href="all_food_recipes.html"><button type="button">Check Out  !</a></h3>
+   
+
+<p><a href="all_food_recipes.html">Visit for more Info.!</a></p>
 
   </body>
 </html>
